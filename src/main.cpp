@@ -57,7 +57,7 @@ void Render(Point p, int height, int horizon, int scale_height, int distance, in
 
 int main(int argc, char* argv[]) {
 
-	const int pixelSize = 2;
+	const int pixelSize = 4;
 	const int windowWidth = 800;
 	const int windowHeight = 600;
 
